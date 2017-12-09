@@ -1,1 +1,1 @@
-uwsgi --ini myweb_uwsgi.ini
+uwsgi --ini panpan_uwsgi.ini
