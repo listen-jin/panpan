@@ -1,1 +1,1 @@
-uwsgi --http :8000 --module panpan.wsgi
+uwsgi --http :8080 --module panpan.wsgi
