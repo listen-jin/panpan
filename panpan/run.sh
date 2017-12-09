@@ -1,1 +1,1 @@
-uwsgi --http :8080 --module panpan.wsgi
+uwsgi --ini myweb_uwsgi.ini
